@@ -1,0 +1,19 @@
+src/content/docs/monetization-gateway/get-started/index.mdx
+  s_e9cf438c071a5b::t_27874c83d992c4 23,25,36,38,43-45
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "76d2537bd456e12b1fc214e5de395caee8a39213",
+  "prompts": {},
+  "sessions": {
+    "s_e9cf438c071a5b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f11ef3d44ffefAsUbDv25BZi4d",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Jorge Silva <jorgesilva@cloudflare.com>"
+    }
+  }
+}
