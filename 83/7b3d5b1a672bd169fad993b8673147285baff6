@@ -1,0 +1,19 @@
+src/components/landing/sidebar-data.ts
+  s_ca501a7b684f30::t_750bb7b0fb52fe 2,8,27-31,35,214-220
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "837b3d5b1a672bd169fad993b8673147285baff6",
+  "prompts": {},
+  "sessions": {
+    "s_ca501a7b684f30": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f1238c7ebffeTsUggh73ilPFbh",
+        "model": "@cf/moonshotai/kimi-k3"
+      },
+      "human_author": "Jorge Silva <jorgesilva@cloudflare.com>"
+    }
+  }
+}
